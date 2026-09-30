@@ -1,0 +1,6 @@
+{
+  "name": "導師級投資助手",
+  "description": "虛擬貨幣與台股投資助手，結合即時匯率圖表、AI每日財金新聞更新與精準進出場點建議。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
